@@ -82,4 +82,6 @@ Chúc bạn một năm mới:
 
 </div> ```
 
+👨‍💻 CHương trình được tạo bởi:  DeepSeek AI và Grok AI (xAI) 
+
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
