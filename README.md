@@ -66,4 +66,20 @@
 `bash
 g++ -o TetFireworks.exe main.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio`
 
+📜 Giấy Phép
+Dự án được phân phối dưới giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
+
+<div align="center">
+Chúc bạn một năm mới:
+
+🎊 AN KHANG THỊNH VƯỢNG 🎊
+
+💻 CODE BUG-FREE 💻
+
+✨ SÁNG TẠO VÔ BIÊN ✨
+
+<sub>Made with ❤️ và rất nhiều pháo hoa</sub>
+
+</div> ```
+
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
