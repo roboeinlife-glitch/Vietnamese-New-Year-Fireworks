@@ -67,7 +67,7 @@
 g++ -o TetFireworks.exe main.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio`
 
 📜 Giấy Phép
-Dự án được phân phối dưới giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
+Dự án được phân phối dưới giấy phép MIT. Xem file [LICENSE](https://github.com/roboeinlife-glitch/Vietnamese-New-Year-Fireworks/blob/main/LICENSE) để biết thêm chi tiết.
 
 <div align="center">
 Chúc bạn một năm mới:
